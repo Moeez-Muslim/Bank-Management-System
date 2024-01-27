@@ -43,7 +43,7 @@ This GitHub repository hosts a simple Bank Management System implemented in Java
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Moeez-Muslim/bank-sanagement-system.git
+   git clone https://github.com/Moeez-Muslim/bank-management-system.git
    ```
 
 2. Open the project in your preferred Java IDE.
